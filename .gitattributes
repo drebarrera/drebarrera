@@ -1,7 +1,7 @@
 special-vendored-path/* linguist-vendored
-WebGen/JQuery-UI.js linguist-vendored=true
-WebGen/JQuery.js linguist-vendored=true
-WebGen-Projects/JQuery-UI.js linguist-vendored=true
-WebGen-Projects/JQuery.js linguist-vendored=true
-drebarrera.github.io/JQuery-UI.js linguist-vendored=true
-drebarrera.github.io/JQuery.js linguist-vendored=true
+../WebGen/JQuery-UI.js linguist-vendored=true
+../WebGen/JQuery.js linguist-vendored=true
+../WebGen-Projects/JQuery-UI.js linguist-vendored=true
+../WebGen-Projects/JQuery.js linguist-vendored=true
+../drebarrera.github.io/JQuery-UI.js linguist-vendored=true
+../drebarrera.github.io/JQuery.js linguist-vendored=true
