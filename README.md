@@ -1,3 +1,5 @@
+<h1 align="center">Dre Barrera</h1>
+
 Currently a Computer Engineering senior at Purdue University, I am always working on new projects. Most recently, I have developed Python-Based UI Development Software, <a href="www.github.com/drebarrera/WebGen">WebGen</a> and have worked with several clients to develop <a href="https://drebarrera.com/projects/index.php">Data Driven Solutions for Development Problems.</a>
 
 
@@ -9,6 +11,7 @@ Currently a Computer Engineering senior at Purdue University, I am always workin
 - :steam_locomotive: Purdue University Boilermaker
 - :computer: Learn more about me at my <a href="https://www.drebarrera.com">Portfolio Website</a>
 - :mailbox: Contact me on my <a href="https://www.drebarrera.com/contact">Contact Page</a>
+
 
 <!---
 drebarrera/drebarrera is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
