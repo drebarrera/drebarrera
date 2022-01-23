@@ -11,7 +11,14 @@ Currently a Computer Engineering senior at Purdue University, I am always workin
 - :steam_locomotive: Purdue University Boilermaker
 - :computer: Learn more about me at my <a href="https://www.drebarrera.com">Portfolio Website</a>
 - :mailbox: Contact me on my <a href="https://www.drebarrera.com/contact">Contact Page</a>
+<br>
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=drebarrera&show_icons=true&theme=highcontrast)
+](https://github.com/anuraghazra/github-readme-stats)
+
+<br>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=drebarrera&layout=compact&langs_count=10&theme=highcontrast)](https://github.com/anuraghazra/github-readme-stats)
 
 <!---
 drebarrera/drebarrera is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
