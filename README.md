@@ -13,13 +13,12 @@ Currently a Computer Engineering senior at Purdue University, I am always workin
 - :mailbox: Contact me on my <a href="https://www.drebarrera.com/contact">Contact Page</a>
 <br>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=drebarrera&show_icons=true&theme=highcontrast)
-](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=drebarrera&layout=compact&langs_count=10&theme=highcontrast)](https://github.com/anuraghazra/github-readme-stats)
 
 <br>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=drebarrera&layout=compact&langs_count=10&theme=highcontrast)](https://github.com/anuraghazra/github-readme-stats)
-
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=drebarrera&show_icons=true&theme=highcontrast)
+](https://github.com/anuraghazra/github-readme-stats)
 <!---
 drebarrera/drebarrera is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
