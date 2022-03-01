@@ -6,7 +6,7 @@ Currently a Computer Engineering senior at Purdue University, I am always workin
 
 - 👋 Hi, I’m Dre
 - :partly_sunny: Data-Driven Software, User Interface, and User Experience Design
-- :gem: Hardware-Oriented Industrial Design and Computer Engineering
+- :gem: Hardware-Oriented Industrial Design, Embedded Systems, Integrated Circuit Logic, and Computer Engineering
 - :globe_with_meridians: Creator of <a href="www.github.com/drebarrera/WebGen">WebGen</a>
 - :steam_locomotive: Purdue University Boilermaker
 - :computer: Learn more about me at my <a href="https://www.drebarrera.com">Portfolio Website</a>
