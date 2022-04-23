@@ -1,13 +1,13 @@
 <h1 align="center">Dre Barrera</h1>
 
-Currently a Computer Engineering senior at Purdue University, I am always working on new projects. Most recently, I have developed Python-Based UI Development Software, <a href="www.github.com/drebarrera/WebGen">WebGen</a> and have worked with several clients to develop <a href="https://drebarrera.com/projects/index.php">Data Driven Solutions for Development Problems.</a>
+Currently a Computer Engineering senior at Purdue University, I am always working on new projects. Most recently, I have developed Python-Based UI Development Software, <a href="www.drebarrera.com/webgen">WebGen</a> and have worked with several clients to develop <a href="https://drebarrera.com/projects/index.php">Data Driven Solutions for Development Problems.</a>
 
 
 
 - 👋 Hi, I’m Dre
 - :partly_sunny: Data-Driven Software, UI/UX, Data Automation, and Machine Learning Programming
 - :gem: Hardware-Oriented Industrial Design, Embedded Systems, Integrated Circuit Logic, and Computer Engineering
-- :globe_with_meridians: Creator of <a href="www.github.com/drebarrera/WebGen">WebGen</a>
+- :globe_with_meridians: Creator of <a href="www.drebarrera.com/webgen">WebGen</a>
 - :steam_locomotive: Purdue University Boilermaker
 - :computer: Learn more about me at my <a href="https://www.drebarrera.com">Portfolio Website</a>
 - :mailbox: Contact me on my <a href="https://www.drebarrera.com/contact">Contact Page</a>
