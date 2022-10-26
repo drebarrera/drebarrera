@@ -13,7 +13,7 @@ Currently a Computer Engineering senior at Purdue University, I am always workin
 - :mailbox: Contact me on my <a href="https://www.drebarrera.com/contact">Contact Page</a>
 <br>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=drebarrera&layout=compact&langs_count=5&theme=highcontrast&exclude_repo=Repeat-Rover])](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=drebarrera&layout=compact&langs_count=5&theme=highcontrast&exclude_repo=repeat-rover])](https://github.com/anuraghazra/github-readme-stats)
 
 <br>
 
