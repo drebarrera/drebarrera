@@ -1,6 +1,6 @@
 <h1 align="center">Dre Barrera</h1>
 
-Currently a Computer Engineering senior at Purdue University, I am always working on new projects. Most recently, I have developed Python-Based UI Development Software, <a href="https://www.drebarrera.com/webgen">WebGen</a> and have worked with several clients to develop <a href="https://drebarrera.com/projects/index.php">Data Driven Solutions for Development Problems.</a>
+Currently a Computer Engineering senior at Purdue University, I am always working on new projects. Most recently, I have developed Python-Based UI Development Software, <a href="https://www.drebarrera.com/webgen">WebGen</a> and have worked with several clients to develop <a href="https://drebarrera.com/#projects">Data Driven Solutions for Development Problems.</a>
 
 
 
